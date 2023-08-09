@@ -9,3 +9,5 @@ print(area)
 print(longitud) 
 
 print(math.pi) #math.pi libreria para operaciones matematicas 
+
+print(f"El area es: {area} y el perimetro es {longitud}")
