@@ -1,0 +1,7 @@
+valor = 10 
+print(valor)
+valor = "eduardo"
+print(valor) 
+'''almacena 2 valores  en la variable valor  y las muestra en pantalla  seguidamente'''
+'''tipado dinamico es que en una misma variable puede contener difentes tipos de datos a lo largo del programa'''
+#tipado dinamico es que en una misma variable puede contener difentes tipos de datos a lo largo del programa
